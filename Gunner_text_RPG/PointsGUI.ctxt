@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PointsGUI()
+comment0.text=\r\nThe\ Constructor\ for\ PointsGUI\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Driver\ for\ PointsGUI\ class\r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ If\ the\ button\ gets\ pressed\ a\ label\ will\ set\ its\ text\ to\ "clicked"\r\n@Pre\:\ PointsGUI\ already\ constructed\r\n@Post\:\ GUI\ outputted\ to\ screen\r\n@Param\:\ ActionEvent\ event\r\n@Return\:\ void\r\n
+numComments=3

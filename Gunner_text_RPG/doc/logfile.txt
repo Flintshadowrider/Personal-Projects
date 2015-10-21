@@ -1,0 +1,153 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;D:\RPG
+-d
+D:\RPG\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\RPG\Warrior.java
+<---- end of javadoc command ---->
+Loading source file D:\RPG\Warrior.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0
+Building tree for all the packages and classes...
+Generating D:\RPG\doc\Warrior.html...
+D:\RPG\Warrior.java:8: warning - @Gunner is an unknown tag.
+D:\RPG\Warrior.java:8: warning - @RPG is an unknown tag.
+D:\RPG\Warrior.java:46: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:381: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:381: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:381: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:381: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:423: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:423: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:423: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:423: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:358: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:358: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:358: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:358: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:465: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:465: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:465: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:465: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:59: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:59: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:59: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:59: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:542: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:542: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:542: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:542: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:277: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:277: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:277: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:277: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:317: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:317: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:317: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:317: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:211: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:211: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:211: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:211: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:255: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:255: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:255: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:255: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:233: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:233: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:233: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:233: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:487: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:487: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:487: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:487: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:498: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:498: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:498: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:498: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:520: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:520: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:520: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:520: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:87: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:87: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:87: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:87: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:509: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:509: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:509: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:509: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:75: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:75: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:75: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:75: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:531: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:531: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:531: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:531: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:199: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:199: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:199: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:199: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:339: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:339: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:339: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:339: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:122: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:122: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:122: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:122: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:98: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:98: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:98: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:98: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:288: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:288: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:288: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:288: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:328: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:328: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:328: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:328: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:222: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:222: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:222: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:222: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:266: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:266: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:266: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:266: warning - @Param: is an unknown tag.
+D:\RPG\Warrior.java:244: warning - @Pre: is an unknown tag.
+D:\RPG\Warrior.java:244: warning - @Post: is an unknown tag.
+D:\RPG\Warrior.java:244: warning - @Return: is an unknown tag.
+D:\RPG\Warrior.java:244: warning - @Param: is an unknown tag.
+Generating D:\RPG\doc\package-frame.html...
+Generating D:\RPG\doc\package-summary.html...
+Generating D:\RPG\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\RPG\doc\allclasses-frame.html...
+Generating D:\RPG\doc\allclasses-noframe.html...
+Generating D:\RPG\doc\index.html...
+Generating D:\RPG\doc\stylesheet.css...
+111 warnings

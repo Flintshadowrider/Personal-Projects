@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ \ Constructor\ for\ the\ SortStep\ object\r\n
+comment1.params=
+comment1.target=void\ sortMenu()
+comment1.text=\r\n\ \ Asks\ the\ user\ to\ select\ an\ option\ within\ the\ pub\r\n\ \ @Pre\:\ Run\ this\ once\ to\ start\ the\ program\r\n\ \ @Post\:\ Never\ Run\ this\ again\r\n\ \ @Return\:\ void\r\n\ \ @Param\:\ none\r\n
+comment2.params=
+comment2.target=void\ cs()
+comment2.text=\r\n\ Clears\ the\ console\ screen\ by\ placing\ many\ println's\r\n\ @Pre\:\ none\r\n\ @Post\:\ Fills\ 30\ lines\ of\ the\ command\ prompt\ with\ spaces\r\n\ @Return\:\ void\r\n\ @Param\:\ none\r\n
+comment3.params=
+comment3.target=void\ createCharacter()
+comment3.text=\r\n\ Creates\ a\ Role\ object\ of\ type\ Warrior\ or\ Wizard\ and\ adds\ them\ to\ an\ ArrayList\ of\ availabele\ characters\r\n\ You\ can\ name\ your\ character\ as\ well\r\n\ @Pre\:\ Only\ Run\ while\ in\ the\ sortMenu\ method\r\n\ @Post\:\ Should\ add\ your\ designated\ character\ to\ the\ ArrayList\r\n\ @Return\:\ void\r\n\ @Param\:\ none\r\n
+comment4.params=
+comment4.target=void\ selectCharacter()
+comment4.text=\r\n\ Chooses\ one\ of\ the\ already\ made\ characters\ from\ the\ ArrayList\ and\ assigns\ that\ object\r\n\ To\ the\ myCharacter\ object\r\n\ @Pre\:\ Assume\ indexOutOfBounds\ is\ taken\ care\ of\r\n\ @Pre\:\ Assume\ there\ is\ something\ in\ the\ ArrayList\ of\ Characters\r\n\ @Post\:\ Allows\ for\ AdventureMenu\ to\ be\ run\ successfully\r\n\ @Param\:\ none\r\n\ @Return\:\ void\r\n
+numComments=5

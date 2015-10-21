@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=firstNum\ secondNum
+comment0.target=Item(int,\ int)
+comment0.text=\r\n\ Contructor\ for\ the\ Item\ class\r\n
+comment1.params=
+comment1.target=int\ getNum()
+comment1.text=\r\n\ Returns\ the\ value\ inside\ the\ myItemNum\ variable\r\n\ @PreCondition\:\ none\r\n\ @PostCondition\:\ none\r\n\ @Param\:\ none\r\n\ @Return\:\ int\ myItemNum\r\n
+comment2.params=
+comment2.target=int\ getAmount()
+comment2.text=\r\n\ Returns\ the\ value\ inside\ the\ myItemAmount\ variable\r\n\ @PreCondition\:\ none\r\n\ @PostCondition\:\ none\r\n\ @Param\:\ none\r\n\ @Return\:\ int\ myItemAmount\r\n
+comment3.params=input
+comment3.target=void\ setNum(int)
+comment3.text=\r\n\ Sets\ the\ value\ inside\ the\ myItemNum\ variable\r\n\ @PreCondition\:\ dont\ set\ any\ negative\ nums\ or\ zero\r\n\ @PostCondition\:\ none\r\n\ @Param\:\ int\ input\r\n\ @Return\:\ void\r\n
+comment4.params=input
+comment4.target=void\ setAmount(int)
+comment4.text=\r\n\ Sets\ the\ value\ inside\ the\ myItemAmount\ variable\r\n\ @PreCondition\:\ dont\ set\ any\ negative\ nums\ or\ zero\r\n\ @PostCondition\:\ none\r\n\ @Param\:\ int\ input\r\n\ @Return\:\ void\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ String\ of\ both\ numbers\ seperated\ by\ a\ space\ "\ "\r\n\ @PreCondition\:\ none\r\n\ @PostCondition\:\ none\r\n\ @Param\:\ none\r\n\ @Return\:\ String\ myItemNum+"\ "+myItemAmount\r\n
+comment6.params=other
+comment6.target=int\ compareTo(Item)
+comment6.text=\r\n\ Compares\ two\ items,\ if\ this\ Item\ is\ bigger/equal\ to/smaller\ than\ parameter\ Item\r\n\ @PreCondition\:\ none\r\n\ @PostCondition\:\ will\ return\ 0,-1,1\r\n\ @Param\:\ Item\ other\r\n\ @Return\:\ int\r\n
+numComments=7

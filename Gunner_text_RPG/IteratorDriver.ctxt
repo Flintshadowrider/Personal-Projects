@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ @Pre\:\ Do\ not\ call\ from\ any\ other\ methods\r\n\ @Post\:\ none\r\n\ @Param\:\ String\ []\ args\r\n\ @Returns\:\ void\r\n
+numComments=1

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AdventureMenu()
+comment0.text=\r\n\ Constructor\ for\ AdventureMenu\r\n
+comment1.params=character
+comment1.target=Role\ runAdventureMenu(Role)
+comment1.text=\r\n\ Runs\ the\ menu\ for\ AdventureMenu\r\n\ From\ Here\ the\ player\ can\ choose\ what\ location\ they\ wish\ to\ adventure\ in\ with\ their\ selected\ character\r\n\ All\ experience\ and\ gold\ will\ be\ saved\ and\ returned\ back\ to\ Menu\r\n\ @Pre\:\ Must\ be\ called\ within\ Menu\ class\r\n\ @Post\:\ Role\ returned\ must\ be\ the\ save\ Role\ passed\ in\r\n\ @Param\:\ Role\ character\r\n\ @Return\:\ Role\r\n
+comment2.params=
+comment2.target=void\ runNoobieLand()
+comment2.text=\r\n\ Runs\ the\ NoobieLand\ adventure\ of\ 10\ enemies\ dropping\ 40\ xp\ and\ 20\ gold\ each\r\n\ @Pre\:\ Must\ be\ run\ within\ runAdventureMenu\r\n\ @Post\:\ none\r\n\ @Return\:\ void\r\n\ @Param\:\ none\r\n
+comment3.params=
+comment3.target=void\ runPlains()
+comment3.text=\r\n\ Runs\ the\ Plains\ adventure\r\n\ Here\ there\ are\ 10\ enemies\ dropping\ 80xp\ and\ 30gold\ each\r\n\ @Pre\:\ Must\ be\ run\ within\ runAdventureMenu\r\n\ @Post\:\ none\r\n\ @Return\:\ void\r\n\ @Param\:\ none\r\n
+comment4.params=
+comment4.target=void\ cs()
+comment4.text=\r\n\ Clears\ the\ console\ screen\ by\ placing\ many\ println's\r\n\ @Pre\:\ none\r\n\ @Post\:\ Fills\ 30\ lines\ of\ the\ command\ prompt\ with\ spaces\r\n\ @Return\:\ void\r\n\ @Param\:\ none\r\n
+numComments=5
